@@ -18,7 +18,7 @@ namespace SearchingAlgorithms
         private static void CompareSearchTimes()
         {
             Console.WriteLine("\n-- Comparing Search Times --");
-            int numbersToCheck = 10000;
+            int numbersToCheck = 10000; //10000
             Random random = new Random();
 
             // Arrays and Dictionary for comparison
